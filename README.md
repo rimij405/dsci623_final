@@ -10,7 +10,7 @@ This is a *non-exhaustive* list of the types of questions we were asked:
 
 - How many records are there in the dataset?
 - How many actual unique `purposes_scrubbed` are there for this spending?
-- How many of these `purposes_scrubbed` actually contain the word "Trump"?
+- How many `property_scrubbed` actually contain the word "Trump"?
 - What is the total being spent on these properties?
 
 I completed the initial analysis using command line tools.
